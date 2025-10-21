@@ -1,0 +1,9 @@
+langchain
+langchain-core
+langchain-community
+langchain-experimental
+langchain-google-genai
+pandas
+python-dotenv
+requests
+pydantic
