@@ -1,0 +1,13 @@
+{
+  "predicted_endpoint": "Unmet",
+  "justification": "The prediction is based on the highly ambitious primary endpoint and the challenging patient population. The trial aims for a 100% improvement in progression-free survival (PFS) in patients with limited metastatic pancreatic cancer. This means doubling the PFS, a very high bar for a disease known for its aggressive biology and poor prognosis. A prior Phase II trial (IMAGE-1, PMID: 27599039) of IMM-101 combined with gemcitabine in advanced pancreatic cancer showed a positive survival trend but failed to meet its primary endpoint. Another trial combining IMM-101 and SBRT (LAPC-2, PMID: 36813171) showed promise, but it was in a less advanced, locally advanced patient population, making direct extrapolation to the metastatic setting difficult. The combination's mechanism (SBRT causing immunogenic cell death, potentiated by IMM-101's immunomodulation) is plausible, but achieving a doubling of PFS in a non-randomized study is unlikely.",
+  "flag": "Red Flag",
+  "rationale": "The primary endpoint of a 100% improvement in PFS is exceptionally ambitious for metastatic pancreatic cancer. A previous Phase II trial of IMM-101 in this setting did not meet its primary endpoint, and while a similar combination was promising in locally advanced disease, the metastatic setting is significantly more challenging. Confidence: 70%",
+  "references": [
+    "27599039",
+    "36813171"
+  ],
+  "tools_used": [
+    "pubmed_tool"
+  ]
+}

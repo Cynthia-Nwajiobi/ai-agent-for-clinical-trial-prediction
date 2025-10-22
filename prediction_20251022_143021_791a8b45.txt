@@ -1,0 +1,12 @@
+{
+  "predicted_endpoint": "Met",
+  "justification": "The primary endpoint of this study is to assess the safety and tolerability of intratumoral phIL12 gene electrotransfer. This is a Phase 1 objective with a high likelihood of success for a local therapy. The core therapeutic approach has strong precedent; the trial summary notes that intratumoral gene electrotransfer with a plasmid coding for IL-12 has already been proven safe in melanoma. Our internal data confirms a prior Phase 1 trial (ISRCTN15479959) in the same indication, basal cell carcinoma, which successfully demonstrated the feasibility and safety of the procedure. The modification to the plasmid for EU regulatory compliance (removal of antibiotic resistance genes) is a standard safety enhancement and is highly unlikely to introduce new toxicities. The local administration route is expected to minimize systemic adverse events, further increasing the probability of meeting the safety and tolerability endpoint.",
+  "flag": "Green Flag",
+  "rationale": "Confidence: 95%. The prediction is based on direct historical precedent. A prior Phase 1 trial (ISRCTN15479959) in the same indication (BCC) using the same mechanism (intratumoral IL-12 gene electrotransfer) successfully met its primary safety endpoint. The modification to the plasmid for EU compliance is a minor change designed to enhance safety.",
+  "references": [
+    "ISRCTN15479959"
+  ],
+  "tools_used": [
+    "data_tool"
+  ]
+}

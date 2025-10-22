@@ -1,0 +1,15 @@
+{
+    "predicted_endpoint": "Met",
+    "justification": "The proposed intervention combines a regional anesthetic technique (Thoracic Paravertebral Block - TPVB) with systemic patient-controlled analgesia (PCIA). This multimodal approach is mechanistically sound for managing postoperative pain. TPVB provides targeted somatic nerve blockade, reducing the baseline pain and decreasing the overall opioid requirement, while the oxycodone PCIA allows the patient to manage breakthrough pain effectively. Evidence from prior studies strongly supports this strategy. Published research indicates that TPVB-based regimens are feasible, safe, and effective for providing analgesia after thoracoscopic-laparoscopic esophagectomy, suggesting a high probability that the primary endpoint for pain relief will be achieved.",
+    "flag": "Green Flag",
+    "rationale": "Strong positive evidence from multiple prior studies (PMIDs: 33403428, 24686029) demonstrates the efficacy of TPVB combined with intravenous analgesia for this specific surgical population. The mechanistic synergy of combining regional and systemic analgesia is well-established for complex postoperative pain. Confidence: 85%",
+    "references": [
+        "36648745",
+        "33403428",
+        "24686029"
+    ],
+    "tools_used": [
+        "clinical_trial_data_analysis",
+        "pubmed_tool"
+    ]
+}
