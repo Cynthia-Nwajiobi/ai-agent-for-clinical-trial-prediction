@@ -33,5 +33,8 @@ In a $50B+ clinical research analytics market, this AI agent has the potential t
 - Support regulatory and portfolio strategy with transparent, evidence-based insights.
 - Empower researchers with accessible, AI-assisted analysis tools that enhance, rather than replace, human expertise.
 
+### Watch the demo video
+Link: https://drive.google.com/file/d/1VO51DCniS2L5R8cnUrxQ6f670gruQSSe/view?usp=drivesdk
+
 ### Note:
 I have made this repo into a template for easy replication. This is a simple viable model. Feel free to clone and build upon it.
